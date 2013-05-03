@@ -1,0 +1,3 @@
+[submodule "lib/noUiSlider"]
+	path = lib/noUiSlider
+	url = https://github.com/leongersen/noUiSlider.git
